@@ -1,0 +1,3286 @@
+Clientes por entrar: 186
+Clientes en puerta: 0
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 0
+
+Clientes por entrar: 185
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 0
+
+Clientes por entrar: 184
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 0
+
+Clientes por entrar: 184
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 0
+
+Clientes por entrar: 183
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 1
+
+Clientes por entrar: 182
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 1
+
+Clientes por entrar: 182
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 2
+
+Clientes por entrar: 181
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 3
+
+Clientes por entrar: 180
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 3
+
+Clientes por entrar: 180
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 4
+
+Clientes por entrar: 179
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 5
+
+Clientes por entrar: 179
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 5
+
+Clientes por entrar: 178
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 6
+
+Clientes por entrar: 177
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 7
+
+Clientes por entrar: 177
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 7
+
+Clientes por entrar: 176
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 8
+
+Clientes por entrar: 175
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 8
+
+Clientes por entrar: 175
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 9
+
+Clientes por entrar: 174
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 9
+
+Clientes por entrar: 174
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 10
+
+Clientes por entrar: 173
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 11
+
+Clientes por entrar: 172
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 11
+
+Clientes por entrar: 172
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 12
+
+Clientes por entrar: 171
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 13
+
+Clientes por entrar: 170
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 13
+
+Clientes por entrar: 170
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 14
+
+Clientes por entrar: 169
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 15
+
+Clientes por entrar: 169
+Clientes en puerta: 0
+Clientes esperando para reservar: 1
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 15
+
+Clientes por entrar: 168
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 16
+
+Clientes por entrar: 167
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 17
+
+Clientes por entrar: 167
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 17
+
+Clientes por entrar: 166
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 18
+
+Clientes por entrar: 165
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 18
+
+Clientes por entrar: 165
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 19
+
+Clientes por entrar: 164
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 19
+
+Clientes por entrar: 163
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 20
+
+Clientes por entrar: 163
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 21
+
+Clientes por entrar: 162
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 21
+
+Clientes por entrar: 162
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 22
+
+Clientes por entrar: 161
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 23
+
+Clientes por entrar: 160
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 23
+
+Clientes por entrar: 160
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 24
+
+Clientes por entrar: 159
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 25
+
+Clientes por entrar: 158
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 25
+
+Clientes por entrar: 158
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 26
+
+Clientes por entrar: 157
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 27
+
+Clientes por entrar: 157
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 27
+
+Clientes por entrar: 156
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 28
+
+Clientes por entrar: 155
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 29
+
+Clientes por entrar: 155
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 29
+
+Clientes por entrar: 154
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 30
+
+Clientes por entrar: 153
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 31
+
+Clientes por entrar: 153
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 31
+
+Clientes por entrar: 152
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 32
+
+Clientes por entrar: 151
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 32
+
+Clientes por entrar: 151
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 33
+
+Clientes por entrar: 150
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 33
+
+Clientes por entrar: 149
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 34
+
+Clientes por entrar: 149
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 35
+
+Clientes por entrar: 148
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 35
+
+Clientes por entrar: 148
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 36
+
+Clientes por entrar: 147
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 37
+
+Clientes por entrar: 146
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 37
+
+Clientes por entrar: 146
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 38
+
+Clientes por entrar: 145
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 39
+
+Clientes por entrar: 144
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 39
+
+Clientes por entrar: 144
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 40
+
+Clientes por entrar: 143
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 41
+
+Clientes por entrar: 142
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 41
+
+Clientes por entrar: 142
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 42
+
+Clientes por entrar: 141
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 43
+
+Clientes por entrar: 141
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 43
+
+Clientes por entrar: 140
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 44
+
+Clientes por entrar: 139
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 45
+
+Clientes por entrar: 139
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 45
+
+Clientes por entrar: 138
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 46
+
+Clientes por entrar: 137
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 46
+
+Clientes por entrar: 137
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 47
+
+Clientes por entrar: 136
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 47
+
+Clientes por entrar: 135
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 48
+
+Clientes por entrar: 135
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 49
+
+Clientes por entrar: 134
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 49
+
+Clientes por entrar: 134
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 50
+
+Clientes por entrar: 133
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 51
+
+Clientes por entrar: 132
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 51
+
+Clientes por entrar: 132
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 52
+
+Clientes por entrar: 131
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 53
+
+Clientes por entrar: 130
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 53
+
+Clientes por entrar: 130
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 54
+
+Clientes por entrar: 129
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 55
+
+Clientes por entrar: 129
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 55
+
+Clientes por entrar: 128
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 56
+
+Clientes por entrar: 127
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 57
+
+Clientes por entrar: 127
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 57
+
+Clientes por entrar: 126
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 57
+
+Clientes por entrar: 125
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 58
+
+Clientes por entrar: 125
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 59
+
+Clientes por entrar: 124
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 59
+
+Clientes por entrar: 124
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 60
+
+Clientes por entrar: 123
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 61
+
+Clientes por entrar: 122
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 61
+
+Clientes por entrar: 122
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 62
+
+Clientes por entrar: 121
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 63
+
+Clientes por entrar: 120
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 63
+
+Clientes por entrar: 120
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 64
+
+Clientes por entrar: 119
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 65
+
+Clientes por entrar: 119
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 65
+
+Clientes por entrar: 118
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 66
+
+Clientes por entrar: 117
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 67
+
+Clientes por entrar: 117
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 67
+
+Clientes por entrar: 116
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 68
+
+Clientes por entrar: 115
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 68
+
+Clientes por entrar: 115
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 69
+
+Clientes por entrar: 114
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 69
+
+Clientes por entrar: 113
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 70
+
+Clientes por entrar: 113
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 71
+
+Clientes por entrar: 112
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 71
+
+Clientes por entrar: 112
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 72
+
+Clientes por entrar: 111
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 73
+
+Clientes por entrar: 110
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 73
+
+Clientes por entrar: 110
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 74
+
+Clientes por entrar: 109
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 75
+
+Clientes por entrar: 108
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 75
+
+Clientes por entrar: 108
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 76
+
+Clientes por entrar: 107
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 77
+
+Clientes por entrar: 107
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 77
+
+Clientes por entrar: 106
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 78
+
+Clientes por entrar: 105
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 79
+
+Clientes por entrar: 105
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 79
+
+Clientes por entrar: 104
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 80
+
+Clientes por entrar: 103
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 80
+
+Clientes por entrar: 103
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 81
+
+Clientes por entrar: 102
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 81
+
+Clientes por entrar: 102
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 82
+
+Clientes por entrar: 101
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 83
+
+Clientes por entrar: 100
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 83
+
+Clientes por entrar: 100
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 84
+
+Clientes por entrar: 99
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 85
+
+Clientes por entrar: 98
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 85
+
+Clientes por entrar: 98
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 86
+
+Clientes por entrar: 97
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 87
+
+Clientes por entrar: 96
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 87
+
+Clientes por entrar: 96
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 88
+
+Clientes por entrar: 95
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 89
+
+Clientes por entrar: 94
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 89
+
+Clientes por entrar: 94
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 90
+
+Clientes por entrar: 93
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 91
+
+Clientes por entrar: 93
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 91
+
+Clientes por entrar: 92
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 92
+
+Clientes por entrar: 91
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 93
+
+Clientes por entrar: 91
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 93
+
+Clientes por entrar: 90
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 94
+
+Clientes por entrar: 89
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 94
+
+Clientes por entrar: 89
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 95
+
+Clientes por entrar: 88
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 95
+
+Clientes por entrar: 87
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 96
+
+Clientes por entrar: 87
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 97
+
+Clientes por entrar: 86
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 97
+
+Clientes por entrar: 86
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 98
+
+Clientes por entrar: 85
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 99
+
+Clientes por entrar: 84
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 99
+
+Clientes por entrar: 84
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 100
+
+Clientes por entrar: 83
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 101
+
+Clientes por entrar: 82
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 101
+
+Clientes por entrar: 82
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 102
+
+Clientes por entrar: 81
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 103
+
+Clientes por entrar: 81
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 103
+
+Clientes por entrar: 80
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 104
+
+Clientes por entrar: 79
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 104
+
+Clientes por entrar: 79
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 105
+
+Clientes por entrar: 78
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 105
+
+Clientes por entrar: 77
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 106
+
+Clientes por entrar: 77
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 107
+
+Clientes por entrar: 76
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 107
+
+Clientes por entrar: 76
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 108
+
+Clientes por entrar: 75
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 109
+
+Clientes por entrar: 74
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 109
+
+Clientes por entrar: 74
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 110
+
+Clientes por entrar: 73
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 111
+
+Clientes por entrar: 72
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 111
+
+Clientes por entrar: 72
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 112
+
+Clientes por entrar: 71
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 113
+
+Clientes por entrar: 70
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 113
+
+Clientes por entrar: 70
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 114
+
+Clientes por entrar: 69
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 115
+
+Clientes por entrar: 69
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 115
+
+Clientes por entrar: 68
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 116
+
+Clientes por entrar: 67
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 116
+
+Clientes por entrar: 67
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 117
+
+Clientes por entrar: 66
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 117
+
+Clientes por entrar: 65
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 118
+
+Clientes por entrar: 65
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 119
+
+Clientes por entrar: 64
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 119
+
+Clientes por entrar: 64
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 120
+
+Clientes por entrar: 63
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 121
+
+Clientes por entrar: 62
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 121
+
+Clientes por entrar: 62
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 122
+
+Clientes por entrar: 61
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 123
+
+Clientes por entrar: 60
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 123
+
+Clientes por entrar: 60
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 124
+
+Clientes por entrar: 59
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 125
+
+Clientes por entrar: 59
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 125
+
+Clientes por entrar: 58
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 126
+
+Clientes por entrar: 57
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 127
+
+Clientes por entrar: 57
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 127
+
+Clientes por entrar: 56
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 128
+
+Clientes por entrar: 55
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 128
+
+Clientes por entrar: 55
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 129
+
+Clientes por entrar: 54
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 129
+
+Clientes por entrar: 54
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 130
+
+Clientes por entrar: 53
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 131
+
+Clientes por entrar: 52
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 131
+
+Clientes por entrar: 52
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 132
+
+Clientes por entrar: 51
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 133
+
+Clientes por entrar: 50
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 133
+
+Clientes por entrar: 50
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 134
+
+Clientes por entrar: 49
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 135
+
+Clientes por entrar: 49
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 135
+
+Clientes por entrar: 48
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 136
+
+Clientes por entrar: 47
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 137
+
+Clientes por entrar: 47
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 137
+
+Clientes por entrar: 46
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 138
+
+Clientes por entrar: 45
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 138
+
+Clientes por entrar: 45
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 139
+
+Clientes por entrar: 44
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 139
+
+Clientes por entrar: 43
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 140
+
+Clientes por entrar: 43
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 141
+
+Clientes por entrar: 42
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 141
+
+Clientes por entrar: 42
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 142
+
+Clientes por entrar: 41
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 143
+
+Clientes por entrar: 40
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 143
+
+Clientes por entrar: 40
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 144
+
+Clientes por entrar: 39
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 145
+
+Clientes por entrar: 38
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 145
+
+Clientes por entrar: 38
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 146
+
+Clientes por entrar: 37
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 146
+
+Clientes por entrar: 37
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 147
+
+Clientes por entrar: 36
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 147
+
+Clientes por entrar: 36
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 148
+
+Clientes por entrar: 35
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 149
+
+Clientes por entrar: 34
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 149
+
+Clientes por entrar: 34
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 150
+
+Clientes por entrar: 33
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 151
+
+Clientes por entrar: 33
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 151
+
+Clientes por entrar: 32
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 152
+
+Clientes por entrar: 31
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 153
+
+Clientes por entrar: 31
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 153
+
+Clientes por entrar: 30
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 154
+
+Clientes por entrar: 29
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 154
+
+Clientes por entrar: 29
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 155
+
+Clientes por entrar: 28
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 155
+
+Clientes por entrar: 27
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 156
+
+Clientes por entrar: 27
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 157
+
+Clientes por entrar: 26
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 157
+
+Clientes por entrar: 26
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 158
+
+Clientes por entrar: 25
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 159
+
+Clientes por entrar: 24
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 159
+
+Clientes por entrar: 24
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 160
+
+Clientes por entrar: 23
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 161
+
+Clientes por entrar: 22
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 161
+
+Clientes por entrar: 22
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 162
+
+Clientes por entrar: 21
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 163
+
+Clientes por entrar: 21
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 163
+
+Clientes por entrar: 20
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 164
+
+Clientes por entrar: 19
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 165
+
+Clientes por entrar: 19
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 165
+
+Clientes por entrar: 18
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 166
+
+Clientes por entrar: 17
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 166
+
+Clientes por entrar: 17
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 167
+
+Clientes por entrar: 16
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 167
+
+Clientes por entrar: 15
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 168
+
+Clientes por entrar: 15
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 169
+
+Clientes por entrar: 14
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 169
+
+Clientes por entrar: 14
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 170
+
+Clientes por entrar: 13
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 171
+
+Clientes por entrar: 12
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 171
+
+Clientes por entrar: 12
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 172
+
+Clientes por entrar: 11
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 173
+
+Clientes por entrar: 10
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 173
+
+Clientes por entrar: 10
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 174
+
+Clientes por entrar: 9
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 175
+
+Clientes por entrar: 9
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 175
+
+Clientes por entrar: 8
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 176
+
+Clientes por entrar: 7
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 177
+
+Clientes por entrar: 7
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 177
+
+Clientes por entrar: 6
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 178
+
+Clientes por entrar: 5
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 178
+
+Clientes por entrar: 5
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 179
+
+Clientes por entrar: 4
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 179
+
+Clientes por entrar: 3
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 1
+Clientes saliente: 180
+
+Clientes por entrar: 3
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 181
+
+Clientes por entrar: 2
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 181
+
+Clientes por entrar: 2
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 182
+
+Clientes por entrar: 1
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 183
+
+Clientes por entrar: 0
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 1
+Clientes cancelando: 0
+Clientes saliente: 183
+
+Clientes por entrar: 0
+Clientes en puerta: 1
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 1
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 184
+
+Clientes por entrar: 0
+Clientes en puerta: 0
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 1
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 0
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 185
+
+Clientes por entrar: 0
+Clientes en puerta: 0
+Clientes esperando para reservar: 0
+Clientes atendiendose por agente 1: 0
+Clientes atendiendose por agente 2: 0
+Clientes esperando para cancelar o confirmar reserva: 0
+Clientes confirmando: 1
+Clientes pagando: 0
+Clientes cancelando: 0
+Clientes saliente: 185
+
+tiempo en milis: 30448
+clientes atendidos por el agente 1: 93
+clientes atendidos por el agente 1: 93
+Cantidad de clientes que confirmaron: 93
+Cantidad de clientes que Cancelaron: 93
+clientes que salieron en total: 186
+secuencia de transiciones:
+T0T1T0T2T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T2T0T9T10T11T5T7T1T3T0T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T1T2T0T4T6T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T3T0T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T0T3T8T11T4T6T1T0T2T9T10T11T5T7T1T0T3T8T11T4T6T1T2T0T9T10T11T5T7T1T3T8T11T4T6T9T10T11
